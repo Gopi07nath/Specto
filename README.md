@@ -1,0 +1,2 @@
+# Specto
+For documentation
